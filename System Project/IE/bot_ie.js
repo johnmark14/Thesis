@@ -11,7 +11,7 @@ var Twit = require('twit');
 var config = require('./ie_twit_config');
 var T = new Twit(config);
 //////////////////SEARCH HERE////////////////////
-var params = { q: '#KMJS, KMJS', count: 2 };
+var params = { q: ' #OnePlus5T, OnePlus5T', count: 10 };
 ////////////////////////////////////////////////
 var searchTitle = params.q;
 
