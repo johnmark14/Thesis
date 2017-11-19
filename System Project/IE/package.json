@@ -1,0 +1,14 @@
+{
+  "name": "package_ie",
+  "version": "1.0.0",
+  "description": "Information Extraction for Filipino Disaster Related Post",
+  "main": "ie_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@John Mark Gabrentina",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
